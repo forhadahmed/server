@@ -1,0 +1,4 @@
+#!/bin/sh
+
+gcc -o server src/*.c -Iinclude       
+
