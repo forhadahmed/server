@@ -1,6 +1,5 @@
-
 No BS, High Performance server written in pure C
 
 + Linux
 + epoll
-
++ C10K
